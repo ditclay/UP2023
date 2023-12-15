@@ -1,0 +1,122 @@
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\bin\Debug\KompStul.exe.config
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\bin\Debug\KompStul.exe
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\bin\Debug\KompStul.pdb
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\bin\Debug\EntityFramework.dll
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\bin\Debug\itextsharp.dll
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\bin\Debug\PdfSharp.Charting.dll
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\bin\Debug\PdfSharp.dll
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\bin\Debug\zxing.dll
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\bin\Debug\zxing.presentation.dll
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\bin\Debug\EntityFramework.xml
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\bin\Debug\itextsharp.xml
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\bin\Debug\PdfSharp.xml
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\bin\Debug\PdfSharp.Charting.xml
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\bin\Debug\zxing.xml
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\bin\Debug\zxing.presentation.xml
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\obj\Debug\KompStul.csproj.AssemblyReference.cache
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\obj\Debug\MainWindow.g.cs
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\obj\Debug\OneOrder.g.cs
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\obj\Debug\OrdersWindow.g.cs
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\obj\Debug\Pages\avtorizacia.g.cs
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\obj\Debug\Pages\EditMerch.g.cs
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\obj\Debug\Pages\EditOrders.g.cs
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\obj\Debug\Pages\HistoryPage.g.cs
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\obj\Debug\Pages\merches.g.cs
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\obj\Debug\Pages\OrdersPages.g.cs
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\obj\Debug\Pages\plitka.g.cs
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\obj\Debug\Pages\Registration.g.cs
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\obj\Debug\Pages\RootMerch.g.cs
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\obj\Debug\Pages\TalonOrder.g.cs
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\obj\Debug\App.g.cs
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\obj\Debug\KompStul_Content.g.cs
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\obj\Debug\KompStul_MarkupCompile.cache
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\obj\Debug\KompStul_MarkupCompile.lref
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\obj\Debug\App.baml
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\obj\Debug\MainWindow.baml
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\obj\Debug\OneOrder.baml
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\obj\Debug\OrdersWindow.baml
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\obj\Debug\Pages\avtorizacia.baml
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\obj\Debug\Pages\EditMerch.baml
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\obj\Debug\Pages\EditOrders.baml
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\obj\Debug\Pages\HistoryPage.baml
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\obj\Debug\Pages\merches.baml
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\obj\Debug\Pages\OrdersPages.baml
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\obj\Debug\Pages\plitka.baml
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\obj\Debug\Pages\Registration.baml
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\obj\Debug\Pages\RootMerch.baml
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\obj\Debug\Pages\TalonOrder.baml
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\obj\Debug\KompStul.g.resources
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\obj\Debug\KompStul.Properties.Resources.resources
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\obj\Debug\KompStul.csproj.GenerateResource.cache
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\obj\Debug\KompStul.csproj.CoreCompileInputs.cache
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\obj\Debug\KompStul.csproj.CopyComplete
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\obj\Debug\KompStul.exe
+C:\Users\ditcl\Desktop\GunsBams1233 — копия — копия — копия\KompStul\obj\Debug\KompStul.pdb
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\bin\Debug\KompStul.exe.config
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\bin\Debug\KompStul.exe
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\bin\Debug\KompStul.pdb
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\bin\Debug\EntityFramework.dll
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\bin\Debug\itextsharp.dll
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\bin\Debug\PdfSharp.Charting.dll
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\bin\Debug\PdfSharp.dll
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\bin\Debug\zxing.dll
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\bin\Debug\zxing.presentation.dll
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\bin\Debug\EntityFramework.xml
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\bin\Debug\itextsharp.xml
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\bin\Debug\PdfSharp.xml
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\bin\Debug\PdfSharp.Charting.xml
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\bin\Debug\zxing.xml
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\bin\Debug\zxing.presentation.xml
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\obj\Debug\KompStul.csproj.AssemblyReference.cache
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\obj\Debug\MainWindow.g.cs
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\obj\Debug\OneOrder.g.cs
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\obj\Debug\OrdersWindow.g.cs
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\obj\Debug\Pages\avtorizacia.g.cs
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\obj\Debug\Pages\EditMerch.g.cs
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\obj\Debug\Pages\EditOrders.g.cs
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\obj\Debug\Pages\HistoryPage.g.cs
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\obj\Debug\Pages\merches.g.cs
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\obj\Debug\Pages\OrdersPages.g.cs
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\obj\Debug\Pages\plitka.g.cs
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\obj\Debug\Pages\Registration.g.cs
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\obj\Debug\Pages\RootMerch.g.cs
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\obj\Debug\Pages\TalonOrder.g.cs
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\obj\Debug\App.g.cs
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\obj\Debug\KompStul_Content.g.cs
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\obj\Debug\KompStul_MarkupCompile.cache
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\obj\Debug\KompStul_MarkupCompile.lref
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\obj\Debug\App.baml
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\obj\Debug\MainWindow.baml
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\obj\Debug\OneOrder.baml
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\obj\Debug\OrdersWindow.baml
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\obj\Debug\Pages\avtorizacia.baml
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\obj\Debug\Pages\EditMerch.baml
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\obj\Debug\Pages\EditOrders.baml
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\obj\Debug\Pages\HistoryPage.baml
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\obj\Debug\Pages\merches.baml
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\obj\Debug\Pages\OrdersPages.baml
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\obj\Debug\Pages\plitka.baml
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\obj\Debug\Pages\Registration.baml
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\obj\Debug\Pages\RootMerch.baml
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\obj\Debug\Pages\TalonOrder.baml
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\obj\Debug\KompStul.g.resources
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\obj\Debug\KompStul.Properties.Resources.resources
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\obj\Debug\KompStul.csproj.GenerateResource.cache
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\obj\Debug\KompStul.csproj.CoreCompileInputs.cache
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\obj\Debug\KompStul.csproj.CopyComplete
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\obj\Debug\KompStul.exe
+C:\Users\ditcl\Desktop\KompStul 2.0\KompStul\obj\Debug\KompStul.pdb
